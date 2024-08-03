@@ -4,5 +4,6 @@ General purpose is similar to that of a home projector. All files (including bui
 # Software required
 -Arduino IDE
 # Credits
-Differentiating 
+Differentiating.
+
 thx for reading!
